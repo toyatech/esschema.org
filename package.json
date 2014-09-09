@@ -1,0 +1,7 @@
+{
+  "name": "esschema.org",
+  "version": "0.0.0",
+  "description": "ECMAScript validation through JSON Schema",
+  "dependencies": {
+  }
+}
